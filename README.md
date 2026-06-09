@@ -12,3 +12,6 @@ Change the COL_OFFSET from 0 to 20
 then restart the background daemon
 
 sudo systemctl restart playlist.service
+
+
+https://www.waveshare.com/1.69inch-lcd-module.htm
